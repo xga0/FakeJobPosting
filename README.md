@@ -1,5 +1,5 @@
 # fakeJobPosting
-Kaggle Notebook: https://www.kaggle.com/sean49/fake-job-posting-a-hybrid-nn-classifier
+Kaggle Notebook: https://www.kaggle.com/sean49/fake-job-posting-a-hybrid-nn-classifier \
 A Hybrid Nerual Network Classifier with Oversample Minority Class.
 
 ## Model Structure
