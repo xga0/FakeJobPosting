@@ -1,6 +1,6 @@
 # FakeJobPosting
 Kaggle Notebook: https://www.kaggle.com/sean49/fake-job-posting-a-hybrid-nn-classifier \
-A Hybrid Nerual Network Classifier with Oversample Minority Class.
+A Hybrid Neural Network Classifier with Oversample Minority Class.
 
 ## Oversample Minority Class
 Since the two classes of this dataset are very imbalance, I decided to oversampling the minority class, which can be considered as adding more copies of the minority class. Here I used imblearn’s SMOTE (https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.over_sampling.SMOTE.html) or Synthetic Minority Oversampling Technique. SMOTE uses a nearest neighbors algorithm to generate new and synthetic data for training the model.
